@@ -1,4 +1,4 @@
-# FakeCheat-v0.2
+# FakeCheat [v0.2 - Only Menu]
 [JS] [Only Menu] made for (Onetap v3, OTv3, OTC3) 
 
 Intall [JS]
